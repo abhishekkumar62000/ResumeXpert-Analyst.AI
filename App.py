@@ -186,13 +186,13 @@ except RuntimeError:
 # UI Improvements
 AI_path = "AI.png"  # Ensure this file is in the same directory as your script
 try:
-    st.sidebar.image(AI_path)
+    st.sidebar.image(AI_path, use_container_width=True)
 except FileNotFoundError:
     st.sidebar.warning("AI.png file not found. Please check the file path.")
 
 image_path = "image.png"  # Ensure this file is in the same directory as your script
 try:
-    st.sidebar.image(image_path)
+    st.sidebar.image(image_path, use_container_width=True)
 except FileNotFoundError:
     st.sidebar.warning("image.png file not found. Please check the file path.")
 
@@ -224,7 +224,7 @@ with st.sidebar:
     """, unsafe_allow_html=True)
     # Add developer picture below the developer name
     try:
-        st.image('pic.jpg', width=280, caption='Abhishek Yadav', use_column_width=False)
+        st.image('pic.jpg', width=280, caption='Abhishek Yadav', use_container_width=False)
     except Exception:
         st.warning('Developer image not found (pic.jpg).')
 
