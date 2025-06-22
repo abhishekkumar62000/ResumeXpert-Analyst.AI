@@ -1,0 +1,19 @@
+streamlit
+requests
+langchain
+langchain-community  # ✅ Fix for FAISS
+faiss-cpu
+python-docx
+sentence-transformers
+pymupdf
+PyPDF2
+huggingface-hub
+google-generativeai
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+spacy
+fpdf
+reportlab
