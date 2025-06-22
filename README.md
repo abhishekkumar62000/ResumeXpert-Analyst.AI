@@ -1,6 +1,10 @@
+![AI](https://github.com/user-attachments/assets/e08fbda2-afe0-4ae7-bae4-8c6fbd16d7c8)
+![Frontend1](https://github.com/user-attachments/assets/4e256548-b9e2-4edf-a823-88d601f80c29)
+
 <h1 align="center">📄 ResumeXpert Analyst.AI 🤖</h1>
 
-<p align="center">
+<p align="center">![Frontend1](https://github.com/user-attachments/assets/d16503b1-0c42-4dec-adfe-c1b344f0682f)
+
   <b>🔍 Your Smart AI-Powered Resume & Career Growth Assistant</b>  
 </p>
 
